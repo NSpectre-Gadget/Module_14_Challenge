@@ -1,4 +1,4 @@
-# Module_14_Challenge
+# Trading Bot using Machine Learning
 
 ## Overview of the Analysis
 
