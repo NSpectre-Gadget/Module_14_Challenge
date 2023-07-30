@@ -1,12 +1,11 @@
 # Module_14_Challenge
 
 ## Overview of the Analysis
-###
+
 ***
 
 * Explain the purpose of the analysis.
-This is a report to an optimal trading algorithm
-To assess the risk/reward characteristics, we backtested algorithms, or evaluated an algorithms performance by using historical stock data.
+This is a report to an optimal trading algorithm to assess the risk/reward characteristics, we backtested algorithms, or evaluated an algorithms performance by using historical stock data.
 
 
 
